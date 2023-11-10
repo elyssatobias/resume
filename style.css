@@ -85,6 +85,7 @@ main{
 
 h3, .resume_dates{
     margin-top: 20px;
+    line-height: 28px;
 }
 
 #totalExperience{
@@ -102,7 +103,8 @@ footer{
     padding: 20px 0;
     box-sizing: border-box;
     display: block;
-    background-color: #aaa;
+    color: #999;
+    background-color: #ccc;
 }
 
 @media screen and (max-width: 700px) {
@@ -111,4 +113,33 @@ footer{
         flex-direction: column;
         padding: 20px 20px;
     }
+}
+
+@media print{
+
+    *{transition:none!important;}
+
+    footer, #print-resume{
+        display: none;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    header{
+        padding: 0;
+    }
+
+    .resume_bullets {
+        line-height: 1.4em;
+    }
+
+    a[href]:after {
+        content: none !important;
+      }
+     
+      #skills_textTwo, #skills_textThree{
+        margin-top: 15px;
+      }
 }
