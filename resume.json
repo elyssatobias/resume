@@ -1,0 +1,384 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Elyssa Tobias, SHRM-CP",
+    "label": "Certified HR Professional - HR Analytics & Operations ",
+    "image": "",
+    "email": "elyssat@aggienetwork.com",
+    "phone": "",
+    "url": "",
+    "summary": "SHRM Certified HR Professional with a demonstrated history of working across multiple industries. Skilled in Excel, Payroll, Recruiting, Benefits, ADP and Dynamics with people focus. Strong educational background with a Bachelor of Science Degree in Psychology and a minor in Human Resources Development from Texas A&M University.",
+    "location": {
+      "countryCode": "US",
+      "address": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "elyssa-tobias-shrm-cp-1844b459",
+        "url": "https://www.linkedin.com/in/elyssa-tobias-shrm-cp-1844b459/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Allucent",
+      "position": "Human Resources Generalist (People & Culture)",
+      "startDate": "2022-05-31",
+      "endDate": "2023-02-28",
+      "highlights": [],
+      "summary": "Human Resources Generalist of Allucent having previously held the role of Human Resources Specialist of Pharm-Olam, LLC, an acquired company by CATO SMS. CATO SMS has recently been rebranded as Allucent.\n\nData Maintenance: Update HRIS database records and process paperwork for new hires, terminations and other status changes. Performs HRIS data entry and personnel file maintenance. (PANs on POInt integrated to Freshworks case system)\n\n\nReports/Queries: Write, maintain and support a variety of reports or queries using appropriate reporting tools. Assist in development of standard reports for ongoing customer needs. Help maintain data integrity in systems by running queries and analyzing data. (weekly iCIMS manager recruiting, quarterly payroll pto for US/CAN/MEX, Dynamics extended leave, quarterly new hire for debarment checks, monthly pto accrual upload for US/CAN/AUS, quarterly pto requests/benefit accrual balances)  \n\n\nTraining: Develop user procedures, guidelines and documentation. Train customers on new processes/functionality. Train new system users. UAT testing of periodic upgrades before new Dynamics system goes live to employees\n\n\nProvide support and guidance to hiring leaders and candidates to ensure effective onboarding of candidates into the HR systems\n\n\nDynamics 365, iCIMS and ADP, plus other operating systems functions and reporting\n\n\niCIMS: scheduling interviews for US primarily (helped fill positions for awarded government COVID projects as recruiter went on leave), create new requisitions, candidate and manager communications, weekly social media recruiting report for LI, kept system up to date\n\n\nDynamics365: setup new hires globally, processed terminations, created and completed PANs for any global EE/Contractor changes, monthly Dynamics to BI reconciliation for monthly headcount data report\n\n\nMonthly CV/JD IT help for employees\n\n\nCoordinated yearly company Top Golf event\n\n\nResponds to reference checks and verifications of employment status",
+      "url": "https://www.linkedin.com/company/allucent-cro/",
+      "location": "Houston, TX"
+    },
+    {
+      "name": "Pharm-Olam, LLC",
+      "position": "Human Resources Specialist",
+      "startDate": "2021-12-31",
+      "endDate": "2022-04-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/pharm-olam-llc/",
+      "location": "Houston, TX"
+    },
+    {
+      "name": "Pharm-Olam, LLC",
+      "position": "HR Analyst",
+      "startDate": "2018-10-31",
+      "endDate": "2021-12-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/pharm-olam-llc/",
+      "location": "Houston, TX"
+    },
+    {
+      "name": "McKesson",
+      "position": "Human Resource Associate",
+      "startDate": "2015-05-31",
+      "endDate": "2018-10-31",
+      "highlights": [],
+      "summary": "Recruitment & On-boarding: Facilitates local hiring and contractor conversion process for hourly staff. Conducts new hire orientation and assist with the new hire on boarding process\n\n\nEngagement & Wellness Programs: Promotes local and enterprise-wide engagement and corporate citizenship initiatives by communicating and leading efforts to include volunteer/community service activities, recognition programs, and site action team activities. Educates and assists employees on benefits and Vitality programs. Coordinate local wellness events including biometric screenings and flu shots\n\n\nTalent Management: Partners with management on completion of performance reviews and talent review process. Educates and assists employees on career development and continuing education opportunities through McKesson Center for Learning and Skillport. \n\n\nLeave of Absence/Safety: Process liaison for leaves of absence, paid time off, Workers Compensation/accident reporting, etc\n\n\nTimekeeping/Attendance/Performance Tracking: Partners with managers and supervisors to ensure timesheets and attendance for non-exempt employees is tracked accurately. Drafts corrective actions and works with supervisor to ensure warnings are delivered in a timely manner. Works with employee relations consultant on the completion of final warnings and termination reviews",
+      "url": "https://www.linkedin.com/company/mckesson/",
+      "location": "Conroe, Texas"
+    },
+    {
+      "name": "Aon Hewitt to Alight Solutions",
+      "position": "Payroll & Benefits Customer Relations Specialist",
+      "startDate": "2013-10-31",
+      "endDate": "2015-05-31",
+      "highlights": [],
+      "summary": "Assist 60,000 employees and retirees with their health and welfare needs via phone\n\n\nAssist with employee’s payroll and garnishment inquiries from across 200 locations\n\n\nCall volume ranged from 30-50 calls a day\n\n\nResearch and open service requests to solve complicated problems\n\n\nMulti-task between computer programs while delivering knowledgeable feedback efficiently\n\n\nUtilize CSPro 3 PU, Outlook, Siebel, Lync, Lotus Sametime Connect, Maestro, TBA System, Genesys, Imaging, Lotus Notes 6.52, GRIPT, Impersonation, PeopleSoft, JAT, UPoint, eGain, webchat",
+      "url": "",
+      "location": "The Woodlands, Texas"
+    },
+    {
+      "name": "Crane Worldwide Logistics",
+      "position": "Human Resources Intern",
+      "startDate": "2013-05-31",
+      "endDate": "2013-08-31",
+      "highlights": [],
+      "summary": "HR Employee Relations: assisted with the implementation of a Performance Management System (WingSpan), audited all employees on excel, conference calls, compiled data on how to enter international best company contests & CSR reports for HR Vice President, created HR crossword puzzle for company newsletter, performed UAT testing\n\n\nBenefits Dept: assisted with the implementation of a Wellness Portal, conference calls, created new hire benefit folders, updated employee addresses in Benergy Portal (Benefit Enrollment System), filed\n\n\nPayroll Dept: analyzed payroll codes for overtime employee hours, scanned and filed W-2 tax forms, created payroll cd password log on excel, audited employee garnishments\n\n\nCompensation Dept: updated job descriptions by adding LMS training courses etc\n\n\nRecruiting Dept: created excel billing tables to organize Ceridian invoices from employee drug screenings, filed I-9 forms/employee folders, helped with Recruiting /Payroll informational sessions, attended monthly HR staff meetings, pushed resumes on Ceridian Recruiter site, communicated through professional Outlook email system, directed & answered employee questions during walk-ins",
+      "url": "https://www.linkedin.com/company/crane-worldwide-logistics_2/"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "The Woodlands Methodist Church",
+      "position": "Student Volunteer",
+      "startDate": "2008-06-30",
+      "endDate": "2012-08-31",
+      "summary": "Volunteered every summer doing mission projects across Texas with the EMERGE college ministry",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/9438268"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Texas A&M University",
+      "area": "Psychology",
+      "studyType": "Bachelor of Science (BS)",
+      "startDate": "2010-12-31",
+      "endDate": "2013-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "SHRM - Certified Professional (SHRM-CP)",
+      "issuer": "SHRM",
+      "endDate": "2027-07-31",
+      "startDate": "2021-07-31",
+      "url": "http://www.credly.com/go/RD8GMxE3wR6xFMRrPKP35g"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Skilled Multi-tasker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Organization Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Interpersonal Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Confidentiality",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Crane Worldwide Logistics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visier",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Performance Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "iCIMS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Deferred Compensation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Labor Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Training",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Time Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ADP Payroll",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HR Policies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Power BI",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Payroll",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Applicant Tracking Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "E-Verify",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PeopleSoft",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Employee Engagement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Employee Benefits",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HRIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Dynamics ERP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Talent Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teamwork",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Human Resources Information Systems (HRIS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Public Speaking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PowerPoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Recruiting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Psychology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Talent Acquisition",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Compensation Structures",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "New Hire Orientations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HR Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Outlook",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Human Resources",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Case Management Software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Onboarding",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SharePoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Employee Relations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Benefits Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Compliance Management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "English"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Spanish"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
