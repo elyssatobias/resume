@@ -85,7 +85,7 @@ main{
 
 h3, .resume_dates{
     margin-top: 20px;
-    line-height: 28px;
+    line-height: 30px;
 }
 
 #totalExperience{
@@ -129,6 +129,11 @@ footer{
 
     header{
         padding: 0;
+        flex-direction: column;
+    }
+
+    header img{
+        max-width: 200px;
     }
 
     .resume_bullets {
